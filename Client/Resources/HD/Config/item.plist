@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>Item01</key>
+        <dict>
+            <key>ID</key>
+            <integer>1</integer>
+            <key>TypeId</key>
+            <integer>1</integer>
+            <key>Name</key>
+            <string>Gold Coin</string>
+            <key>Des</key>
+            <string>Every thing for Free</string>
+            <key>Texture</key>
+            <string>coin_gold.png</string>
+            <key>NorPrice</key>
+            <integer>99999</integer>
+            <key>SpecPrice</key>
+            <string>3.99</string>
+        </dict>
+        <key>Item02</key>
+        <dict>
+            <key>ID</key>
+            <integer>2</integer>
+            <key>TypeId</key>
+            <integer>1</integer>
+            <key>Name</key>
+            <string>Silver Coin</string>
+            <key>Des</key>
+            <string>Half Price Items. Tow Free Items Per Day</string>
+            <key>Texture</key>
+            <string>coin_sliver.png</string>
+            <key>NorPrice</key>
+            <integer>9999</integer>
+            <key>SpecPrice</key>
+            <string>1.99</string>
+        </dict>
+        <key>Item03</key>
+        <dict>
+            <key>ID</key>
+            <integer>3</integer>
+            <key>TypeId</key>
+            <integer>1</integer>
+            <key>Name</key>
+            <string>Copper Coin</string>
+            <key>Des</key>
+            <string>Tow Free Items Per Day</string>
+            <key>Texture</key>
+            <string>coin_tong.png</string>
+            <key>NorPrice</key>
+            <integer>999</integer>
+            <key>SpecPrice</key>
+            <string>0.99</string>
+        </dict>
+        <key>Item04</key>
+        <dict>
+            <key>ID</key>
+            <integer>4</integer>
+            <key>TypeId</key>
+            <integer>0</integer>
+            <key>Name</key>
+            <string>Apple</string>
+            <key>Des</key>
+            <string>get twice combo score When Combo </string>
+            <key>Texture</key>
+            <string>apple.png</string>
+            <key>NorPrice</key>
+            <integer>3</integer>
+            <key>SpecPrice</key>
+            <string>0.49</string>
+        </dict>
+        <key>Item05</key>
+        <dict>
+            <key>ID</key>
+            <integer>5</integer>
+            <key>TypeId</key>
+            <integer>0</integer>
+            <key>Name</key>
+            <string>Chicken leg</string>
+            <key>Des</key>
+            <string>Increase 40% lifeBar in Battle</string>
+            <key>Texture</key>
+            <string>chick.png</string>
+            <key>NorPrice</key>
+            <integer>3</integer>
+            <key>SpecPrice</key>
+            <string>0.49</string>
+        </dict>
+        <key>Item06</key>
+        <dict>
+            <key>ID</key>
+            <integer>6</integer>
+            <key>TypeId</key>
+            <integer>0</integer>
+            <key>Name</key>
+            <string>Carrot</string>
+            <key>Des</key>
+            <string>get twice score in battle</string>
+            <key>Texture</key>
+            <string>guluobo.png</string>
+            <key>NorPrice</key>
+            <integer>3</integer>
+            <key>SpecPrice</key>
+            <string>0.49</string>
+        </dict>
+        <key>Item07</key>
+        <dict>
+            <key>ID</key>
+            <integer>7</integer>
+            <key>TypeId</key>
+            <integer>0</integer>
+            <key>Name</key>
+            <string>Watermelon</string>
+            <key>Des</key>
+            <string>Enemy's Speed turn into 2/3 its origin speed</string>
+            <key>Texture</key>
+            <string>xigua.png</string>
+            <key>NorPrice</key>
+            <integer>3</integer>
+            <key>SpecPrice</key>
+            <string>0.49</string>
+        </dict>
+    </dict>
+</plist>
